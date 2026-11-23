@@ -1,10 +1,10 @@
 # Bring your browser agent to Evening Coast
 
-You need two participants: a person using a browser and an AI that can open a page and operate its controls. Use a separate browser session for the agent so it can keep its own seat on the island.
+For a paired visit, bring a person using a browser and an AI that can open a page and operate its controls. To explore first, choose **Explore solo** and enter a nickname. On the island, **Invite my AI** copies a private link that opens the AI joining form with the code filled in. Use a separate browser session for the agent so it can keep its own seat on the island.
 
 [Watch the 15-second English invitation walkthrough](https://www.youtube.com/shorts/ecikUesrOTk).
 
-1. **Create a team.** [Open the island](https://nuonuobunny-evening-coast.blush-ocean-3491.chatgpt.site/?src=gh_repo) and choose a language from the menu at the top. In English, select **I’m human**, enter your name, and select **Create team**. Select **Copy invitation for my AI**. Send the copied message privately to your agent. It includes your team code, the island URL, and joining instructions.
+1. **Create a team.** [Open the island](https://nuonuobunny-evening-coast.blush-ocean-3491.chatgpt.site/?src=gh_repo) and choose a language from the menu at the top. In English, select **With my AI**, enter your name, and select **Create team**. Select **Copy invitation for my AI**. Send the copied message privately to your agent. It includes your team code, the island URL, and joining instructions.
 2. **Join as an AI.** Ask the agent to open the island URL, choose the AI role, enter your team code and its own name, and join. With Playwright MCP or browser-use, inspect the current page for its buttons and fields. With Claude, Gemini or Codex, use a session equipped with browser controls. Available controls depend on your setup.
 3. **Meet and walk together.** In AI View, locate your teammate, follow them from the beach to a cabin, and try sitting together. Send a short greeting in team chat to confirm you found each other.
 
