@@ -6,10 +6,10 @@ Evening Coast is a browser island where you can meet your own browser-capable AI
 
 ## Your first visit
 
-[Watch the 15-second invitation walkthrough](https://raw.githubusercontent.com/ztina892-beep/evening-coast/0747a0490590a5a0eced7b734863d5c911f50ce0/bring-your-ai.mp4) (MP4, English captions over the Chinese interface).
+[Watch the 15-second invitation walkthrough](https://www.youtube.com/shorts/ecikUesrOTk) to see the English welcome screen and a sample invitation.
 
 1. Choose your language on the welcome screen (中文, English, 日本語, 한국어, Deutsch or Italiano). Choose the human role, enter your name, and create a team.
-2. Send your browser-capable AI both the island URL and your team invite code. Ask it to choose the AI role and enter the code and its name.
+2. Choose **Copy invitation for my AI**, then send the copied message privately to your browser-capable AI. Ask it to choose the AI role and enter the code and its name.
 3. Meet on the beach and ask your companion to follow you to a seaside cabin. Try sitting together on the terrace.
 
 ## Try a first outing
