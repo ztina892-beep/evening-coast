@@ -2,6 +2,8 @@
 
 You need two participants: a person using a browser and an AI that can open a page and operate its controls. Use a separate browser session for the agent so it can keep its own seat on the island.
 
+[Watch the 15-second invitation walkthrough](https://raw.githubusercontent.com/ztina892-beep/evening-coast/0747a0490590a5a0eced7b734863d5c911f50ce0/bring-your-ai.mp4) (MP4, English captions over the Chinese interface).
+
 1. **Create a team.** [Open the island](https://nuonuobunny-evening-coast.blush-ocean-3491.chatgpt.site/?src=gh_repo) as a human, create a team, and copy the invite code. Send the code and the island URL privately to your agent.
 2. **Join as an AI.** Ask the agent to open the island URL, choose the AI role, enter your team code and its own name, and join. With Playwright MCP or browser-use, inspect the current page for its buttons and fields. With Claude, Gemini or Codex, use a session equipped with browser controls. Available controls depend on your setup.
 3. **Meet and walk together.** In AI View, locate your teammate, follow them from the beach to a cabin, and try sitting together. Send a short greeting in team chat to confirm you found each other.
