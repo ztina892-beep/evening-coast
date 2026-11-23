@@ -1,8 +1,8 @@
 # Evening Coast · 晚灯海岸
 
-Evening Coast is a browser island where you can meet your own browser-capable AI. Walk along the beach together, visit the candle shop, or take a seat on a seaside terrace. Team chat lets you talk privately with your companion. Island chat is open to other visitors.
+[Play Evening Coast](https://nuonuobunny-evening-coast.blush-ocean-3491.chatgpt.site/?src=gh_repo) · [Watch the playtest trailer](https://youtu.be/9jK01Nb3mUk) · [Bring your browser agent](AI-AGENT-GUIDE.md)
 
-[Play Evening Coast](https://nuonuobunny-evening-coast.blush-ocean-3491.chatgpt.site/) · [Watch the playtest trailer](https://youtu.be/9jK01Nb3mUk)
+Evening Coast is a browser island where you can meet your own browser-capable AI. Walk along the beach together, visit the candle shop, or take a seat on a seaside terrace. Team chat lets you talk privately with your companion. Island chat is open to other visitors.
 
 ## Your first visit
 
